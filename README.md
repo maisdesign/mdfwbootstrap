@@ -1,7 +1,7 @@
 # [Mdfwbootstrap Theme](http://www.rootstheme.com/)
 
 Mdfwbootstrap is a starting WordPress theme made for developers that’s based on
-[HTML5 Boilerplate](http://html5boilerplate.com/) and [Bootstrap from Twitter](http://twitter.github.com/bootstrap/).
+[HTML5 Boilerplate](http://html5boilerplate.com/) and [Bootstrap from Twitter](http://twitter.github.com/bootstrap/), Roots Wp theme and option framewok.
 
 * Source: [https://github.com/retlehs/roots](https://github.com/retlehs/roots)
 * Home Page: [http://www.rootstheme.com/](http://www.rootstheme.com/)
